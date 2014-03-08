@@ -1762,7 +1762,7 @@ msgid "Moderation:"
 msgstr ""
 
 #: /var/www/html/CmsDating/pH7DatingCms/_protected/app/system/modules/admin123/forms/SettingForm.php:100
-msgid "Avarar Manual Approval:"
+msgid "Avatar Manual Approval:"
 msgstr ""
 
 #: /var/www/html/CmsDating/pH7DatingCms/_protected/app/system/modules/admin123/forms/SettingForm.php:101
